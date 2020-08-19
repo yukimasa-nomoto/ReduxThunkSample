@@ -9,7 +9,7 @@
 ・作成開始
     おもったよりおわらなかったので
     Section19へ移動
-        254までいった
+        260までいった。posts.dataにした
 ---------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
