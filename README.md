@@ -2,7 +2,14 @@
 ・npm startで起動確認
     →OK
 ・まずGithubに上げる
-
+    ターミナルから実施
+    ターミナルからアップ完了
+・redux等インストール開始
+    npm install --save redux react-redux axios redux-thunk
+・作成開始
+    おもったよりおわらなかったので
+    Section19へ移動
+        254までいった
 ---------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
