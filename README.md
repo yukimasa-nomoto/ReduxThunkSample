@@ -1,3 +1,15 @@
+2020/08/26
+・256から開始
+    ・UserHeader　10times often 
+    ・do not need duplicate request
+    ・2way overfetching
+        ・memorizing
+            lodash.memoize
+        ・refetching
+            まとめるメソッド追加
+　267までOK
+・tiny Refactor 268
+
 2020/08/19
 ・npm startで起動確認
     →OK
@@ -9,7 +21,7 @@
 ・作成開始
     おもったよりおわらなかったので
     Section19へ移動
-        260までいった。posts.dataにした
+        255までいった。posts.dataにした
 ---------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
